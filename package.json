@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "modern": "^1.0.2",
     "modern-normalize": "^3.0.0",
     "normalize": "^0.3.1",

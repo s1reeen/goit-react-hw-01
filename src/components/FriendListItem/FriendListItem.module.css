@@ -1,0 +1,28 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}

@@ -1,0 +1,39 @@
+.table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 40px;
+}
+
+@media (min-width: 768px) {
+  .table {
+    width: 60%;
+  }
+}
+
+.header {
+  background-color: #2e2e2e;
+  text-align: center;
+  color: #fff;
+}
+
+.headerText {
+  border: 2.5px solid #1e1e1e;
+}
+
+.cell {
+  font-weight: 500;
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+  text-transform: capitalize;
+}
+
+.backgroundGrey {
+  background-color: #d2d2d2;
+}
+
+.backgroundWhite {
+  background-color: #fff;
+}
